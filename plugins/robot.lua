@@ -1,8 +1,4 @@
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
+
 local function is_channel_disabled( receiver )
 	if not _config.disabled_channels then
 		return false
