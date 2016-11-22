@@ -1,8 +1,3 @@
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
 local function history(extra, suc, result)
   for i=1, #result do
     delete_msg(result[i].id, ok_cb, false)
@@ -10,7 +5,7 @@ local function history(extra, suc, result)
   if tonumber(extra.con) == #result then
     send_msg(extra.chatid, '"'..#result..'The msgs is deleted !!"', ok_cb, false)
   else
-    send_msg(extra.chatid, 'تم  مسح العدد الرسائل  🗑', ok_cb, false)
+    send_msg(extra.chatid, 'تم حذف الرسائل☑️', ok_cb, false)
   end
 end
 local function iDev1(msg, matches)
