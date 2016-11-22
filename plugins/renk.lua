@@ -1,8 +1,3 @@
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
 local function usernameinfo (user)
   if user.username then
     return '@'..user.username
