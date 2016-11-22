@@ -1,11 +1,3 @@
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
-
--- data saved to moderation.json
--- check moderation plugin
 do
 
 local function create_group(msg)
