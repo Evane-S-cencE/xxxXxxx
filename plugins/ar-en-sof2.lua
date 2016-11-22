@@ -1,12 +1,3 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY jOker                          ▀▄ ▄▀ 
-▀▄ ▄▀     BY joker       (@fuck_8_you)     ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY joker                 ▀▄ ▄▀   
-▀▄ ▄▀       broadcast  : زخرفة عربي و نكلش ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
 local function devpointch(msg, matches)
 	if #matches < 2 then
 		return "بعد هذا الأمر، من خلال تحديد كلمة المسافة أو العبارة التي تريد إدخال الكتابة الجميلة"
@@ -89,7 +80,7 @@ local function devpointch(msg, matches)
 		a=a+1
 		result_text = result_text..a.."- "..result[a].."\n\n"
 	end
-	return result_text.."______________________________\n Ⓜ️💡 #jøķěř "
+	return result_text.."______________________________\n Ⓜ️💡 #ṂṜẌ"
 end
 
 return {
@@ -104,8 +95,3 @@ return {
 		},
 	run = devpointch
 }
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
