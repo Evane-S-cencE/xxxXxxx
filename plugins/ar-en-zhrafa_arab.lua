@@ -1,12 +1,4 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY jOker                          ▀▄ ▄▀ 
-▀▄ ▄▀     BY joker       (@fuck_8_you)     ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY joker                 ▀▄ ▄▀   
-▀▄ ▄▀       broadcast  : زخرفة عربي و نكلش ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
+
 local function run(msg, matches) 
    if #matches < 2 then 
       return "اكتب الامر /زخرف ثم ضع فاصلة واكتب الجملة وستظهر لك نتائج الزخرفةی وارد کنید" 
@@ -195,7 +187,7 @@ local function run(msg, matches)
       a=a+1 
       result_text = result_text..a.."- "..result[a].."\n\n" 
    end 
-   return result_text.."المزيد💬\n✅ @help_tele" 
+   return result_text.."#ṂṜẌ"
 end 
 
 return { 
