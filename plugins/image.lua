@@ -1,8 +1,3 @@
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
 local function toimage(msg, success, result)
   local receiver = get_receiver(msg)
   if success then
