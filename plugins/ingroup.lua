@@ -1,8 +1,3 @@
---[[
-# For More Information ....! 
-# Developer : Aziz < @devss_bot >      #Dev
-# our channel: @help_tele
-]]
 do
 
 -- Check Member
